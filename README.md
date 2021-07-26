@@ -1,2 +1,1 @@
-# LOLIOT
-Logging Of Local Internal Office Temperature
+# "LOLIOT" (Logging Of Local Internal Office Temperatures)
