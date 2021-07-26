@@ -1,4 +1,4 @@
-# "LOLIOT" (Logging Of Local Internal Office Temperatures)
+# **"LOLIOT"** (**L**ogging **O**f **L**ocal **I**nternal **O**ffice **T**emperatures)
 
 With the Internet of Things (IoT) quickly growing, manufacturers are pressured to release their products to market as soon as possible in order to keep up with competitors. Innovation and affordability are widely prioritized over basic security considerations as developers rush to get their designs into the hands of enterprises and consumers. Improving the state of IoT security in the future will depend on contributions from experts who understand the common pitfalls and their solutions.
 
