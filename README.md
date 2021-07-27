@@ -1,9 +1,6 @@
+![image](https://user-images.githubusercontent.com/45504513/127078001-61efda73-0223-4c68-b237-ca86b7edca94.png)
 # "LOLIOT"
 (**L**ogging **O**f **L**ocal **I**nternal **O**ffice **T**emperatures)
-
-![image](https://user-images.githubusercontent.com/45504513/127078001-61efda73-0223-4c68-b237-ca86b7edca94.png)
-![image](https://user-images.githubusercontent.com/45504513/127078019-ae73acd4-18ea-42f0-ae4a-7a781d6a26e5.png)
-
 
 With the Internet of Things (IoT) quickly growing, manufacturers are pressured to release their products to market as soon as possible in order to keep up with competitors. Innovation and affordability are widely prioritized over basic security considerations as developers rush to get their designs into the hands of enterprises and consumers. Improving the state of IoT security in the future will depend on contributions from experts who understand the common pitfalls and their solutions.
 
